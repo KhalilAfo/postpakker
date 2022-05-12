@@ -37,3 +37,4 @@ public class Pakke {
                 logger.error("Feil i lagre pakke! " + e);
             }
 }
+
